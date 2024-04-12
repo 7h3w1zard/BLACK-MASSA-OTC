@@ -9,7 +9,7 @@ React, NextJS, Massa API, Viem, Wagmi
 Two smartcontracts in different blockchains:
 
 Currently in test networks:
-Massa.BUILDNET and Polygon Mumbai
+Massa.BUILDNET and Polygon Amoy <s>Mumbai</s>
 
 1. Main logic in massa_otc_contract.ts for MASSA network       // TypeScript and Massa API
 2. Ledger for Polygon(EVM) network polygon_otc_contract.sol    // Solidity
